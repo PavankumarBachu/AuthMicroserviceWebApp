@@ -1,0 +1,84 @@
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\appsettings.json
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.exe
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.deps.json
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.runtimeconfig.json
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.runtimeconfig.dev.json
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\ref\AuthMicroserviceWebApp.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.pdb
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\log4net.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.AssemblyInfoInputs.cache
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.AssemblyInfo.cs
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.csproj.CoreCompileInputs.cache
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\staticwebassets\AuthMicroserviceWebApp.StaticWebAssets.Manifest.cache
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\staticwebassets\AuthMicroserviceWebApp.StaticWebAssets.xml
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\scopedcss\bundle\AuthMicroserviceWebApp.styles.css
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.RazorTargetAssemblyInfo.cache
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.csproj.CopyComplete
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\ref\AuthMicroserviceWebApp.dll
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.pdb
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.genruntimeconfig.cache
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.csprojAssemblyReference.cache
+D:\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\log4net.config
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\log4net.config
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.exe
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.deps.json
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.runtimeconfig.json
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.runtimeconfig.dev.json
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\ref\AuthMicroserviceWebApp.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\AuthMicroserviceWebApp.pdb
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\log4net.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.csprojAssemblyReference.cache
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.AssemblyInfoInputs.cache
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.AssemblyInfo.cs
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.csproj.CoreCompileInputs.cache
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\staticwebassets\AuthMicroserviceWebApp.StaticWebAssets.Manifest.cache
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\staticwebassets\AuthMicroserviceWebApp.StaticWebAssets.xml
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\scopedcss\bundle\AuthMicroserviceWebApp.styles.css
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.csproj.CopyComplete
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\ref\AuthMicroserviceWebApp.dll
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.pdb
+C:\Users\pavan kumar bachu\Desktop\mfrp-pension-management-system\mfrp-pension-management-system\AuthMicroserviceWebApp\AuthMicroserviceWebApp\obj\Debug\net5.0\AuthMicroserviceWebApp.genruntimeconfig.cache
